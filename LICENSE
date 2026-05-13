@@ -1,0 +1,48 @@
+MIT License
+
+Copyright (c) 2026 Lương Hải Long (MSSV 22207056)
+
+NOTE — Scope of this MIT License:
+This MIT License applies to:
+  * The MATLAB source code in LuongHaiLong_22207056_BaiTap_2/*.m
+  * README.md, docs/banner.svg, .gitignore and any other authored metadata
+
+It does NOT cover:
+  * The exercise prompts (Chuong 8 Bai 3.2, Chuong 9 Bai 4.3, Chuong 10
+    Bai 5.8, Chuong 11-12 Bai 6.6) — those remain the property of the
+    Faculty of Electronics & Telecommunications, HCMUS (VNUHCM), as part
+    of the official course "Phuong phap tinh va MATLAB" curriculum.
+    They are quoted in code comments / popup default values purely for
+    cross-reference of the author's submission.
+  * The student portrait (`*.jpg`) — © Luong Hai Long, mirrored here only
+    because the MATLAB GUI loads it via `imshow` in the "Student info"
+    panel. Not redistributable separately.
+  * The hand-written homework PDF (`LuongHaiLong_22207056_BaiTap_1.pdf`) —
+    © Luong Hai Long, retained for academic transparency of the original
+    submission.
+
+ACADEMIC INTEGRITY NOTICE:
+This repository is published as personal portfolio evidence of the
+author's coursework experience. Re-submitting this code as your own work
+for any HCMUS course is plagiarism under the university's academic
+integrity rules.
+
+----------------------------------------------------------------------
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
