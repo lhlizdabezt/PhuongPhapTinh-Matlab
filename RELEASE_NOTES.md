@@ -1,17 +1,18 @@
-# English Portfolio Refresh
-
-## Main updates
-
-- Rewrote the public README in English for HR and engineering review.
-- Standardized the repository summary, reviewer map, evidence highlights, scope boundaries and release/tag links.
-- Preserved an evidence-first tone: clear technical nouns, bounded claims and no production ownership beyond the repository material.
-
-## Repository evidence
-
-- Fixed-point iteration workflow.
-- Two Cholesky-related methods.
-- Newton interpolation and Euler ODE solving.
+# English Visual Portfolio Refresh - 2026-06-02
 
 ## Scope
 
-Coursework implementation for numerical-methods practice. It is educational software, not a numerical library for production use.
+This refresh keeps `PhuongPhapTinh-Matlab` aligned with an English-facing engineering portfolio for HR and technical review.
+
+## Changes
+
+- Added an ASCII-safe animated SVG visual under `assets/portfolio-motion.svg`.
+- Embedded the visual in `README.md` for immediate GitHub rendering.
+- Standardized Markdown and binary asset handling through `.gitattributes`.
+- Kept the repository description evidence-first and scoped to: Numerical-methods coursework.
+
+## Review Context
+
+Primary stack: MATLAB, fixed-point iteration, Cholesky methods, Newton interpolation, Euler ODE.
+
+The repository remains bounded to its real artifacts and does not claim production ownership beyond what the source tree, reports, code or release assets can support.
