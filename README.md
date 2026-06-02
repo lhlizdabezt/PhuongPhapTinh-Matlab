@@ -1,65 +1,110 @@
-# Numerical Methods MATLAB GUI Coursework
+# Numerical Methods MATLAB Portfolio
 
-<p align="center">
-  <a href="https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest"><img src="https://img.shields.io/github/v/release/lhlizdabezt/PhuongPhapTinh-Matlab?style=for-the-badge&logo=github&label=Release" alt="Latest release for PhuongPhapTinh-Matlab" /></a>
-  <a href="https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/tags"><img src="https://img.shields.io/github/v/tag/lhlizdabezt/PhuongPhapTinh-Matlab?style=for-the-badge&logo=git&label=Tag" alt="Latest tag for PhuongPhapTinh-Matlab" /></a>
-  <img src="https://img.shields.io/badge/Portfolio-English%20review%20ready-0f766e?style=for-the-badge" alt="English portfolio ready" />
-</p>
-<p align="center">
-  <img src="assets/portfolio-motion.svg" alt="Animated engineering portfolio visual for PhuongPhapTinh-Matlab" width="100%" />
-</p>
+![Profile](https://img.shields.io/badge/Profile-lhlizdabezt-0B3D91?style=for-the-badge)
+![Writing](https://img.shields.io/badge/Writing-IEEE%20and%20Harvard%20style-1F6F5B?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-English%20US-7A1E3A?style=for-the-badge)
+![Review](https://img.shields.io/badge/Status-Reviewer%20Ready-333333?style=for-the-badge)
 
+![Numerical Methods MATLAB Portfolio reviewer card](assets/reviewer-card.svg)
 
-## Overview
+## Executive Summary
 
-This repository presents numerical-methods homework, a midterm report and a MATLAB GUI implementing several core algorithms with tables and plots.
+This repository presents numerical methods coursework as an engineering portfolio artifact. It highlights MATLAB implementation, GUI evidence, fixed-point iteration, Cholesky decomposition, Newton interpolation, Euler-method ODE solving, and clear result interpretation for reviewers.
+
+## Project Snapshot
 
 | Field | Details |
 |---|---|
-| Repository | [PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) |
-| Portfolio category | Numerical methods coursework and MATLAB GUI project |
-| Primary stack | MATLAB, MATLAB GUI, numerical methods, fixed-point iteration, Cholesky, Newton interpolation, Euler method. |
-| Latest release | [GitHub Releases](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest) |
-| Tags | [Version tags](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/tags) |
-| Owner profile | [Luong Hai Long](https://github.com/lhlizdabezt) |
+| Repository | [lhlizdabezt/PhuongPhapTinh-Matlab](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab) |
+| Portfolio Track | Engineering mathematics, MATLAB GUI work, and numerical-method evidence |
+| Public Status | Reviewer-ready English guide with release-backed evidence |
+| Latest Release | [Open stable release](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/latest) |
+| Owner Profile | [lhlizdabezt](https://github.com/lhlizdabezt) |
+| Contact | 22207056@student.hcmus.edu.vn; luonghailong.work@gmail.com; Tel: +84988114708 |
 
-## Reviewer Map
+## Reviewer Evidence Map
 
-| What to Review | Where to Look | Why It Matters |
-|---|---|---|
-| Technical scope | This README and source tree | Gives a quick, bounded reading path before opening every file |
-| Evidence assets | Release page and top-level project files | Shows what can be downloaded or inspected quickly |
-| Implementation material | Source folders, scripts, notebooks or design files | Connects the portfolio claim to real project artifacts |
-| Version history | Tags and release notes | Makes the repository easier to audit over time |
+- MATLAB source files and GUI artifacts for core numerical-method topics.
+- Organized coursework folders that preserve calculation evidence.
+- English reviewer guide that translates academic work into portfolio language.
+- Release notes and visual assets for stable HR and seminar review.
 
-## Evidence Highlights
+## Implementation Review Notes
 
-- Fixed-point iteration workflow.
-- Two Cholesky-related methods.
-- Newton interpolation and Euler ODE solving.
-- MATLAB GUI with iteration tables, plots and sample textbook data.
+| Review Point | What To Check |
+|---|---|
+| Problem framing | Confirm that the README explains the engineering purpose without exaggerated claims. |
+| Technical evidence | Inspect the source folders, reports, scripts, schematics, or visual assets listed below. |
+| Reproducibility | Use the local instructions where tools are available, or rely on the release snapshot for portfolio review. |
+| Communication quality | Check headings, captions, tables, and release notes for clear English technical writing. |
+| Professional boundary | Treat the repository as educational or portfolio evidence unless the source explicitly proves production deployment. |
 
 ## Repository Structure
 
-| Path | Purpose |
+| Path | Reviewer Purpose |
 |---|---|
-| `docs/` | Top-level directory included in the repository |
-| `LuongHaiLong_22207056_BaiTap_2/` | Top-level directory included in the repository |
-| `LICENSE` | Top-level file included in the repository |
-| `LuongHaiLong_22207056_BaiTap_1.pdf` | Top-level file included in the repository |
+| `LuongHaiLong_22207056_BaiTap_*/` | Coursework folders containing MATLAB tasks and supporting files. |
+| `*.m` | MATLAB scripts, functions, or GUI entry points. |
+| `assets/` | English reviewer card and visual evidence. |
+| `RELEASE_NOTES.md` | Release changelog for the English reviewer guide. |
 
-## Scope and Boundaries
+## How To Review
 
-Coursework implementation for numerical-methods practice. It is educational software, not a numerical library for production use.
+- Review this README to map each numerical method to its evidence folder.
+- Open MATLAB source files to inspect algorithm implementation and input/output behavior.
+- Check GUI evidence where available to understand user-facing calculation flow.
+- Use the latest release when you need a stable portfolio snapshot.
 
-## Role and Portfolio Context
+## How To Use Or Inspect Locally
 
-Luong Hai Long packages this repository as MATLAB and algorithmic coursework evidence.
+- Open MATLAB and set the repository root or target assignment folder as the current directory.
+- Run the relevant `.m` file for the method you want to inspect.
+- For GUI files, open the app or script from MATLAB and test with representative numerical inputs.
+- Record assumptions, convergence behavior, and numerical limitations during review.
 
-## Release and Tagging Notes
+## Visual Evidence
 
-This repository is maintained as part of an English-facing engineering portfolio. Releases and tags are used to preserve reviewable snapshots of the project, including source state, documentation updates and any available visual or report assets.
+![Animated English reviewer card.](assets/reviewer-card.svg)
+
+*Animated English reviewer card.*
+
+## Release, Tags, And Topics
+
+- Current release target: `reviewer-guide-2026-06-02`.
+- Recommended topic set: `matlab, numerical-methods, engineering-math, fixed-point-iteration, cholesky, newton-interpolation, euler-method, gui, coursework, scientific-computing`.
+- Release notes are maintained in [`RELEASE_NOTES.md`](RELEASE_NOTES.md) for stable reviewer traceability.
+- The release archive is intended for HR review, seminar evidence, and academic portfolio verification.
+
+## Contact And Professional Links
+
+| Channel | Link |
+|---|---|
+| GitHub | [https://github.com/lhlizdabezt](https://github.com/lhlizdabezt) |
+| LinkedIn | [https://www.linkedin.com/in/lhlizdabezt](https://www.linkedin.com/in/lhlizdabezt) |
+| Facebook | [https://www.facebook.com/wageseadrake](https://www.facebook.com/wageseadrake) |
+| Instagram | [https://www.instagram.com/lhlizdabezt](https://www.instagram.com/lhlizdabezt) |
+| YouTube | [https://www.youtube.com/@lhlizdabezt](https://www.youtube.com/@lhlizdabezt) |
+| TikTok | [https://www.tiktok.com/@wageseadrake](https://www.tiktok.com/@wageseadrake) |
+| Academic Email | [22207056@student.hcmus.edu.vn](mailto:22207056@student.hcmus.edu.vn) |
+| Professional Email | [luonghailong.work@gmail.com](mailto:luonghailong.work@gmail.com) |
+| Phone | [+84988114708](tel:+84988114708) |
+
+## FAQ
+
+| Question | Answer |
+|---|---|
+| What topics are covered? | Fixed-point iteration, Cholesky methods, Newton interpolation, Euler ODE solving, and related coursework evidence. |
+| Is this optimized production software? | No. It is educational MATLAB work presented with professional documentation. |
+| What should recruiters notice? | Algorithm implementation, mathematical communication, and organized evidence handling. |
+
+## Scope And Boundaries
+
+- This repository is presented as public engineering portfolio evidence.
+- Claims are intentionally limited to what the repository, report, source files, simulations, or visual assets can support.
+- Public text is written in English (United States) for HR, faculty, and engineering reviewers.
+- SVG text is kept ASCII-safe to reduce rendering errors, mojibake, and missing-glyph blocks.
+- Motion visuals avoid moving dotted paths, curved connector lines, and text-over-line compositions.
 
 ## Writing Standard
 
-The README follows an evidence-first style: direct technical nouns, clear project boundaries, release-backed artifacts and no inflated claims beyond what the repository can support.
+The public README, release notes, captions, and reviewer-facing metadata are written in a restrained IEEE and Harvard-inspired style: concise, evidence-first, technically accurate, and suitable for Electronics and Telecommunications portfolio review.
