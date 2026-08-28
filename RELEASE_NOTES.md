@@ -1,29 +1,15 @@
-# Reviewer-Ready English Portfolio Guide - 2026-06-02
+# Portfolio Refresh - August 29, 2026
 
-## Release Scope
+## Scope
 
-This release refreshes `lhlizdabezt/PhuongPhapTinh-Matlab` for professional portfolio review. It updates the public README, reviewer card, evidence map, contact links, FAQ, local inspection guide, topic guidance, and English release notes.
+This release maps the preserved MATLAB GUI and assignment PDF to the numerical-method topics that are actually present in the repository.
 
-## What Changed
+## Included
 
-- Added a complete English reviewer guide aligned with HR, seminar, and engineering review expectations.
-- Added or refreshed `assets/reviewer-card.svg` with ASCII-safe English text and no moving dotted or curved connector lines.
-- Added structured instructions for review, local inspection, professional boundaries, release usage, and FAQ handling.
-- Standardized public contact links for GitHub, LinkedIn, Facebook, Instagram, YouTube, TikTok, email, and phone.
-- Clarified that public claims are limited to repository-backed evidence.
+- Tagged source archive.
+- 11-page in-class assignment PDF.
+- MATLAB GUI image and source covering fixed-point iteration, Cholesky solution, Newton interpolation, and Euler integration.
 
-## Reviewer Notes
+## Boundary
 
-- Portfolio track: Engineering mathematics, MATLAB GUI work, and numerical-method evidence.
-- Primary stack: MATLAB, GUI workflows, Fixed-point iteration, Cholesky decomposition, Newton interpolation, Euler method, Engineering mathematics.
-- Recommended topics: matlab, numerical-methods, engineering-math, fixed-point-iteration, cholesky, newton-interpolation, euler-method, gui, coursework, scientific-computing.
-- Public language: English (United States).
-- Visual rule: no moving dotted paths, curved connector lines, or text placed behind moving line graphics.
-
-## Verification Checklist
-
-- README headings, captions, labels, and tables are in English.
-- SVG reviewer card uses ASCII-safe English text.
-- Visual evidence is linked from repository-local assets when available.
-- Release page can be used as a stable public review snapshot.
-- Repository topics and description should match the professional summary in this release.
+The work is coursework with prepared examples. It is not presented as a general-purpose numerical package or production analysis tool.
