@@ -1,7 +1,15 @@
 # Numerical Methods Coursework in MATLAB
 
 <p align="center">
-  <img src="LuongHaiLong_22207056_BaiTap_2/LuongHaiLong_22207056_BaiTap_2.jpg" alt="MATLAB numerical-methods interface" width="58%" />
+  <img src="docs/banner.svg" alt="Numerical Methods MATLAB coursework banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/portfolio-motion.svg" alt="Animated overview of the MATLAB numerical-method topics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/reviewer-card.svg" alt="Numerical Methods MATLAB reviewer card" width="100%" />
 </p>
 
 This repository preserves coursework for Numerical Methods. Its main MATLAB GUI lets a reviewer select and run five prepared exercises; the accompanying PDF records the first in-class assignment.
@@ -10,11 +18,11 @@ This repository preserves coursework for Numerical Methods. Its main MATLAB GUI 
 
 | Topic | Evidence |
 |---|---|
-| Fixed-point iteration | `x = sin(3x)` option in [`LuongHaiLong_22207056_BaiTap_2.m`](LuongHaiLong_22207056_BaiTap_2/LuongHaiLong_22207056_BaiTap_2.m). |
-| Cholesky solution | Two supplied matrix-and-vector examples in the same GUI source. |
-| Newton interpolation | Forward-difference interpolation with the supplied sample data. |
-| Euler method | First-order ODE example `y' = y - x`. |
-| Assignment record | [`LuongHaiLong_22207056_BaiTap_1.pdf`](LuongHaiLong_22207056_BaiTap_1.pdf), an 11-page submitted coursework document. |
+| Fixed-point iteration | The GUI solves `x = sin(3x)` with the transformed iteration displayed in the prepared input. |
+| Cholesky solution | Two supplied positive-definite matrix and vector examples. |
+| Newton interpolation | Forward-difference interpolation using the supplied sample data. |
+| Euler method | The first-order ODE example `y' = y - x`. |
+| Assignment record | [`LuongHaiLong_22207056_BaiTap_1.pdf`](LuongHaiLong_22207056_BaiTap_1.pdf), the 11-page submitted coursework document. |
 
 ## Run and review
 
@@ -23,11 +31,19 @@ This repository preserves coursework for Numerical Methods. Its main MATLAB GUI 
 3. Select one prepared problem, inspect its input values, then compare the table and plot with the relevant numerical-method assumptions.
 4. For convergence-sensitive cases, check the initial value, tolerance, step size, and conditioning before interpreting a result.
 
-The original GUI labels are retained as supplied coursework source. The public README, captions, and release material use US English; no mathematical result is represented as production software or a general-purpose numerical library.
+## Scope and FAQ
+
+**Is this a numerical-methods library?** No. It is preserved coursework with prepared examples rather than a general-purpose MATLAB package.
+
+**Why is the portrait not shown here?** The original image remains in the source folder because the GUI loads it in its student-information panel. The README uses only project visuals.
+
+**Can the original source be reused for submission?** No. See [`LICENSE`](LICENSE) for the academic-integrity notice and the ownership boundary for course prompts.
+
+The original GUI labels are retained in Vietnamese as supplied coursework source. Public README text, captions, labels, and release notes use US English. No result is represented as production software or a general-purpose numerical library.
 
 ## Release
 
-The [2026 portfolio refresh](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/tag/portfolio-refresh-2026-08-29) includes the tagged source archive, assignment PDF, and UI image. Details are recorded in [`RELEASE_NOTES.md`](RELEASE_NOTES.md).
+The [v1.0.1 portfolio release](https://github.com/lhlizdabezt/PhuongPhapTinh-Matlab/releases/tag/v1.0.1) contains the tagged source archive, assignment PDF, and line-free portfolio visuals. Details are in [`RELEASE_NOTES.md`](RELEASE_NOTES.md).
 
 ## Profile and contact
 
